@@ -1,3 +1,4 @@
+cd ~
 wget https://go.dev/dl/go1.20.2.linux-amd64.tar.gz
 sudo tar -C /usr/local -xzf go1.20.2.linux-amd64.tar.gz
 mkdir -p ~/go/{bin,pkg,src}
